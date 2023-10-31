@@ -1,7 +1,7 @@
 Yoga Studio Website Homepage
 You can visit this website at https://kishor-yoga-studio.netlify.app
-Welcome to the Yoga Studio Website Homepage repository. This project represents your first web development endeavor, and it
-showcases your skills in HTML, CSS, and JavaScript. Additionally, Kodelander has been integrated to manage registration and
+Welcome to the Yoga Studio Website Homepage repository. This project represents my first web development endeavor, and it
+showcases my skills in HTML, CSS, and JavaScript. Additionally, Kodelander has been integrated to manage registration and
 appointment functionality.
 
 Project Overview
